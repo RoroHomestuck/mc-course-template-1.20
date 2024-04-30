@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ancient_debris",
+    "#mccourse:pink_garnet_ores",
+    "#minecraft:gold_ores",
+    "#minecraft:copper_ores",
+    "#minecraft:iron_ores",
+    "#minecraft:diamond_ores",
+    "#minecraft:lapis_ores",
+    "#minecraft:redstone_ores",
+    "#minecraft:emerald_ores",
+    "#minecraft:coal_ores"
+  ]
+}
